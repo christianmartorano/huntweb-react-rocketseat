@@ -1,8 +1,6 @@
 # huntweb-react-rocketseat🚀
 
-<img src="https://nodejs.org/static/images/logo.svg" width="20%">
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/200px-React-icon.svg.png" width="5%">
 
 Projeto do curso introdutório de **ReactJS** da Rocketseat
 
