@@ -1,6 +1,6 @@
 # huntweb-react-rocketseat🚀
 
-<img src="https://nodejs.org/static/images/logo.svg" width="5%">
+<img src="https://nodejs.org/static/images/logo.svg" width="30%">
 
 
 
