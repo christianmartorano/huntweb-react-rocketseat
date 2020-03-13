@@ -2,7 +2,7 @@
 
 Projeto do curso introdutório de **ReactJS** da Rocketseat
 
-![](https://reactnative.dev/img/header_logo.svg?s=20)
+<img src="https://reactnative.dev/img/header_logo.svg?s=20" width="40%">
 
 Aprendi nesse curso o básico sobre ReactJS, recomendo a todos que tiverem o interesse.
 
